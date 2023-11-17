@@ -1,6 +1,6 @@
 /*Escreva um algoritmo para encontrar os números faltantes de um array:*/
 
-let arrOriginal = [10,11,18]
+let arrOriginal = [10,11,18,19]
 let output = []
 
 let arrLastItem = arrOriginal[arrOriginal.length - 1]
